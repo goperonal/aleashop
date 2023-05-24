@@ -1,0 +1,2 @@
+2023-05-23T14:14:29+00:00 INFO {"service":"Pos Reguler","description":"Pos Reguler","cost":[{"value":22000,"etd":"3 HARI","note":""}],"courier":"pos","query":{"weight":1700,"courier":"jne:pos:tiki","origin":"501","originType":"city","destination":"574","destinationType":"subdistrict"}}
+2023-05-23T14:14:29+00:00 INFO {"service":"Pos Nextday","description":"Pos Nextday","cost":[{"value":38000,"etd":"1 HARI","note":""}],"courier":"pos","query":{"weight":1700,"courier":"jne:pos:tiki","origin":"501","originType":"city","destination":"574","destinationType":"subdistrict"}}
